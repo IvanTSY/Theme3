@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e08042-7af7-4e0b-b1b7-f23965fb2cfc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java_client_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apks/org.wikipedia.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/java-client-4.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/selenium-server-standalone-3.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Theme3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Theme3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Theme3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +17,8 @@
       <file leaf-file-name="Theme3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Theme3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="217" column="23" selection-start-line="217" selection-start-column="23" selection-end-line="217" selection-end-column="23" />
+            <state relative-caret-position="170">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1280#1281#0" expanded="true" />
@@ -46,6 +41,7 @@
     <findStrings>
       <find>Learning Programming</find>
       <find>Learning</find>
+      <find>appium</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -59,10 +55,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1312" />
-    <option name="height" value="776" />
+    <option name="x" value="66" />
+    <option name="y" value="6" />
+    <option name="width" value="806" />
+    <option name="height" value="673" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -126,9 +122,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Theme3.findTitleWithoutTimeOut">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Theme3.findTitleWithoutTimeOut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Theme3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Theme3" />
+      <option name="METHOD_NAME" value="findTitleWithoutTimeOut" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="Theme3.saveFirstArticleToMyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Theme3" />
@@ -185,8 +198,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.Theme3.saveFirstArticleToMyList" />
+      <item itemvalue="JUnit.Theme3.findTitleWithoutTimeOut" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Theme3.findTitleWithoutTimeOut" />
         <item itemvalue="JUnit.Theme3.saveFirstArticleToMyList" />
       </list>
     </recent_temporary>
@@ -205,35 +223,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 10h 30m 45s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 18h 57m 53s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 10h 32m 18s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 19h 45m 50s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 10h 36m 06s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 19h 50m 45s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 10h 37m 32s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 20h 11m 47s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 10h 45m 16s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 20h 12m 39s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 10h 46m 39s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 20h 13m 21s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 11h 02m 20s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 20h 14m 05s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 11h 04m 18s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 23h 56m 41s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 11h 07m 10s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.24 at 23h 57m 20s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Theme3_saveFirstArticleToMyList - 2019.03.24 at 11h 08m 18s.xml">
-      <configuration name="Theme3.saveFirstArticleToMyList" configurationId="JUnit" />
+    <history-entry file="Theme3_findTitleWithoutTimeOut - 2019.03.25 at 00h 02m 52s.xml">
+      <configuration name="Theme3.findTitleWithoutTimeOut" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -242,7 +260,7 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3297546" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -274,8 +292,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Theme3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="217" column="23" selection-start-line="217" selection-start-column="23" selection-end-line="217" selection-end-column="23" />
+        <state relative-caret-position="170">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1280#1281#0" expanded="true" />
